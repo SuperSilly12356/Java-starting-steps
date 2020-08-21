@@ -10,7 +10,7 @@ public class Main {
         if (reply.equalsIgnoreCase("general kenobi") || reply.equalsIgnoreCase("general kenobi!")) {
             System.out.println("You are strong and wise and I am very proud of you.");}
         else {
-            System.out.println("It's treason, then.");
+            System.out.println("It's treason, then");
 
         }
     }
